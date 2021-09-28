@@ -1,15 +1,15 @@
 body{
-    background-color: #bd3b66;
-    font-family: "Raleway", sans-serif ;
+    background-color: #009788;
+    font-family: "Raleway", sans-serif;
     text-align: center;
 }
 
 .container{
-width: 100%;
+    width: 100%;
 }
 
 p{
-    color: rgb(56, 168, 163);
+    color: white;
     font-size: 10vw;
 }
 
@@ -19,17 +19,17 @@ p{
 }
 
 #progressBarContainer{
-transform: rotate(180degr);
+    transform: rotate(180deg);
 }
 
 .buttonSection{
-width: 100%;
-padding-top: 3rem;
+    width: 100%;
+    padding-top: 3rem;
 }
 
-.roundbutton{
+.roundButton{
     border-radius: 50%;
-    background-color: rgb(47, 160, 150);
+    background-color: white;
     border: 0;
     width: 5rem;
     height: 5rem;
@@ -46,11 +46,11 @@ padding-top: 3rem;
     width: 49%;
 }
 
-.selector{
-    background-color: rgb(59, 157, 160);
-    padding: 0.8rem 1.4rem 0.9rem 0.8rem;
+.select{
+    background-color: white;
+    padding: .8rem 1.4rem .9rem  .8rem;
     width: 30%;
-    border-radius: 0.5rem;
+    border-radius: .5rem;
     -moz-appearance: none;
     -webkit-appearance: none;
     appearance: none;
