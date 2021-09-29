@@ -5,7 +5,7 @@ body{
 }
 
 .container{
-width: 100%;
+     width: 100%;
 }
 
 p{
@@ -19,12 +19,12 @@ p{
 }
 
 #progressBarContainer{
-transform: rotate(180degr);
+      transform: rotate(180degr);
 }
 
 .buttonSection{
-width: 100%;
-padding-top: 3rem;
+    width: 100%;
+    padding-top: 3rem;
 }
 
 .roundbutton{
@@ -48,9 +48,9 @@ padding-top: 3rem;
 
 .selector{
     background-color: rgb(59, 157, 160);
-    padding: 0.8rem 1.4rem 0.9rem 0.8rem;
+    padding: .8rem 1.4rem .9rem .8rem;
     width: 30%;
-    border-radius: 0.5rem;
+    border-radius: .5rem;
     -moz-appearance: none;
     -webkit-appearance: none;
     appearance: none;
